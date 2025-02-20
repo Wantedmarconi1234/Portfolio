@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import profileImage from "../../assets/portrait-2.jpg";
+import profileImage from "../../assets/prof-3.jpg";
 import { FaBars, FaTimes, FaLinkedin } from "react-icons/fa";
 import { Link } from "react-scroll";
 
