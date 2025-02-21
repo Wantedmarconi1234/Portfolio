@@ -37,7 +37,7 @@ const projects = [
     description: "A responsive application for searching for countries and getting the countries info. Application was developed with React and Tailwind CSS",
     gradient: "bg-gradient-to-br from-[#fc4a1a] to-[#f7b733]",
     github: "https://github.com/Wantedmarconi1234/countries-application-repo.git",
-    live: "https://countries-application-repo-d7cb5qucq-wantedmarconis-projects.vercel.app/",
+    live: "https://countries-application-repo.vercel.app/",
   },
   {
     title: "Advise app",
